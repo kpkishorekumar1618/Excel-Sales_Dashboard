@@ -12,7 +12,6 @@ This is a dynamic sales dashboard built using Microsoft Excel. It analyzes sales
 ## 📁 Files
 - `Sales_Dashboard.xlsx` - Final dashboard
 - `raw_data.csv` - Raw dataset
-- `images/` - Screenshots of the dashboard
 
 ## 🛠 Tools Used
 - Microsoft Excel
